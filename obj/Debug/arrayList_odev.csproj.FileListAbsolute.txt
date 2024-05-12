@@ -1,0 +1,7 @@
+C:\Users\Ege\Desktop\C#\2.Ay\hafta5\arrayList_odev\bin\Debug\arrayList_odev.exe.config
+C:\Users\Ege\Desktop\C#\2.Ay\hafta5\arrayList_odev\bin\Debug\arrayList_odev.exe
+C:\Users\Ege\Desktop\C#\2.Ay\hafta5\arrayList_odev\bin\Debug\arrayList_odev.pdb
+C:\Users\Ege\Desktop\C#\2.Ay\hafta5\arrayList_odev\obj\Debug\arrayList_odev.csproj.AssemblyReference.cache
+C:\Users\Ege\Desktop\C#\2.Ay\hafta5\arrayList_odev\obj\Debug\arrayList_odev.csproj.CoreCompileInputs.cache
+C:\Users\Ege\Desktop\C#\2.Ay\hafta5\arrayList_odev\obj\Debug\arrayList_odev.exe
+C:\Users\Ege\Desktop\C#\2.Ay\hafta5\arrayList_odev\obj\Debug\arrayList_odev.pdb
