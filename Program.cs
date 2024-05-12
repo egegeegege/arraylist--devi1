@@ -24,7 +24,7 @@ namespace arrayList_odev
                 indexarray.Add("Aydın");
                 indexarray.Add(615);
 
-                Hashtable arrayList = new Hashtable();
+                ArrayList arrayList = new ArrayList();
 
                 arrayList.Add("Garemtal");
                 arrayList.Add("mtal");
